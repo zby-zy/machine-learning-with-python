@@ -19,4 +19,5 @@ A subset of machine learning is closely related to computational statistics, whi
 
 ## Resources
 
-IBM Cognitive Class Machine Learning with Python Course: https://cognitiveclass.ai/courses/machine-learning-with-python
+IBM Cognitive Class Machine Learning with Python Course: https://cognitiveclass.ai/courses/machine-learning-with-python<br><br>
+Wikipedia: https://en.wikipedia.org/wiki/Machine_learning
