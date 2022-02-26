@@ -13,7 +13,9 @@ A subset of machine learning is closely related to computational statistics, whi
 5) Recommender Systems
 
 ## Libraries
-<img src="https://user-images.githubusercontent.com/85934122/153268295-0105f8a4-7491-437e-b566-3f4ecbd113c8.png" width="150">     <img src="https://user-images.githubusercontent.com/85934122/153270262-1b5beb83-3cba-4008-92b1-dac9ed972017.png"  width="150"> <img src="https://user-images.githubusercontent.com/85934122/153312799-4e364e21-f293-44d5-ae28-e3bba69f9042.png" width="200"> <img src="https://user-images.githubusercontent.com/85934122/153312984-20169f9d-9cd5-4511-ba4a-5968ce522af8.png" width="200">  <img src="https://user-images.githubusercontent.com/85934122/153314028-15b7229a-3f6f-404d-809c-eb98ed325d74.png" width="100">
+<img src="https://user-images.githubusercontent.com/85934122/153268295-0105f8a4-7491-437e-b566-3f4ecbd113c8.png" width="150">     <img src="https://user-images.githubusercontent.com/85934122/153270262-1b5beb83-3cba-4008-92b1-dac9ed972017.png"  width="150"> <img src="https://user-images.githubusercontent.com/85934122/153312799-4e364e21-f293-44d5-ae28-e3bba69f9042.png" width="200"> <img src="https://user-images.githubusercontent.com/85934122/153312984-20169f9d-9cd5-4511-ba4a-5968ce522af8.png" width="200">  <img src="https://user-images.githubusercontent.com/85934122/153314028-15b7229a-3f6f-404d-809c-eb98ed325d74.png" width="100"> 
+<img src="https://user-images.githubusercontent.com/85934122/155852027-f37761c7-cb22-4cd3-915f-cbffacd699fc.png" width="130">
+
 
 ## Resources
 
